@@ -1,9 +1,8 @@
 {
   "myctmlib": {
     "connection": "gregtech:iconsets/MASS_SOLIDIFIER_CASING_ctm",
-"equivalents": [
+    "equivalents": [
       "gregtech:iconsets/EXOFOUNDRY_EXTRA_CASTING_BASINS"
     ]
-
   }
 }
