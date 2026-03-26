@@ -9,6 +9,9 @@ on:
     paths:
       - "**/*.png"
 
+permissions:
+  contents: write
+
 jobs:
   optimize-images:
     uses: GTNewHorizons/GTNH-Actions-Workflows/.github/workflows/optimize-images.yml@master
