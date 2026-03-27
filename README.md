@@ -85,8 +85,8 @@ All textures, including UI elements, blocks, and items, and effects will be comp
 
 ~~If you want to use connected textures, please download this mod here [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and place the `MyCTMLib.cfg` file into the `config folder`~~
 
-**Starting from version 1.1.0, there is no need to place the configuration file anymore.  
-You only need to install [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and add the resource pack to use connected textures.**  
+**Starting from version 1.1.0, there is no need to place the configuration file anymore.
+You only need to install [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and add the resource pack to use connected textures.**
 **Older versions still require adding the configuration file!**
 
 >Older mod is temporarily suspended from updating, but it can still be used.
@@ -127,12 +127,12 @@ AE2 Dark Mode [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 # Images
 
 
-  ### SGcraft
+### SGcraft
   <img src="https://raw.githubusercontent.com/ABKQPO/Modernity-GTNH/main/Screenshots/SGcraft.png" />
-  
 
 
-  ### GT5U Materials
+
+### GT5U Materials
   <img src="https://raw.githubusercontent.com/ABKQPO/Modernity-GTNH/main/Screenshots/Materials.png" />
 
 ## Special Thanks
@@ -157,25 +157,18 @@ DarkScorpyon
 
 [![Join our Discord](https://img.shields.io/discord/1406476073096450128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/cZTMm6Rzvx)
 
-### Licensing
-
- [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+---
 
 ### Additional Credits
-Most of the original textures come from [GregTech: Refreshed](https://github.com/ULSTICK/GregTechRefreshed), MIT License
 
-Thanks to Aim__Boot for letting us use the following textures from [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x):
-
-bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block
-
-Thanks to zozozrob_ for letting us use thaum-pack from [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack)
-
-Thanks to Ghostipedia for letting us use the following textures from [CosmicCore](https://github.com/Frontiers-PackForge/CosmicCore), MIT License
-
-Thanks to GregTech-Odyssey Team for letting us use the following textures from [GTOCore](https://github.com/GregTech-Odyssey/GTOCore)
-
-Thanks to Sampsa for letting us use Vajra/Matter Manipulator from [Futura Tools](https://github.com/S4mpsa/FuturaTools)
-
-Battery & ULV Casing CTM by [Connected-GT](https://modrinth.com/resourcepack/connected-gt), MIT License
-
-Avaritia Textures by [Re:Avaritia](https://github.com/Nova-Committee/Re-Avaritia) and [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration), CC BY-NC-SA 4.0 License
+| Source                                                                                                                                        | Content / Assets                                                                                                        | License                                                               |
+|:----------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
+| [GregTech: Refreshed](https://github.com/ULSTICK/GregTechRefreshed)                                                                           | Most original textures                                                                                                  | [MIT](https://opensource.org/licenses/MIT)                            |
+| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot)                                                             | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | Permission granted                                                    |
+| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_)                                                       | thaum-pack                                                                                                              | Permission granted                                                    |
+| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_)              | Draconic Evolution textures                                                                                             | Permission granted                                                    |
+| [CosmicCore](https://github.com/Frontiers-PackForge/CosmicCore) (Ghostipedia)                                                                 | Selected textures                                                                                                       | [MIT](https://opensource.org/licenses/MIT)                            |
+| [GTOCore](https://github.com/GregTech-Odyssey/GTOCore)                                                                                        | Selected textures                                                                                                       | Permission granted                                                    |
+| [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa)                                                                                | Vajra / Matter Manipulator                                                                                              | Permission granted                                                    |
+| [Connected-GT](https://modrinth.com/resourcepack/connected-gt)                                                                                | Battery & ULV Casing CTM                                                                                                | [MIT](https://opensource.org/licenses/MIT)                            |
+| [Re:Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures                                                                                                       | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
