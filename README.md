@@ -1,62 +1,62 @@
 <p align="center">
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/latest">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest">
     <img src="pack.png" width="150">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/latest" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest" style="text-decoration: none; color: inherit;">
     Modernity-GTNH
   </a>
 </h1>
 
 <h2 align="center">
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip" style="text-decoration: none;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip" style="text-decoration: none;">
     <strong><em>Download Latest Official Resourcepack</em></strong>
   </a>
   <br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip">
     <img src="https://img.shields.io/badge/release-v1.5.9-blue"
          alt="Pre-release"
          width="100">
   </a>
   <br><br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/tag/v1.5.9" style="text-decoration: none;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/tag/v1.5.9" style="text-decoration: none;">
     <strong><em>Download Other Addon and UI Resourcepack</em></strong>
   </a>
   <br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/tag/v1.5.9">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/tag/v1.5.9">
     <img src="https://img.shields.io/badge/release-v1.5.9-orange"
          alt="Pre-release"
          width="100">
   </a>
   <br><br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar" style="text-decoration: none;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar" style="text-decoration: none;">
     <strong><em>Download MyCTMLib for GTNH 2.8.x</em></strong>
   </a>
   <br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar">
     <img src="https://img.shields.io/badge/release-MyCTMLib_v1.2.5_GTNH28x-green"
          alt="Pre-release"
          width="240">
   </a>
   <br><br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_27x.jar" style="text-decoration: none;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_27x.jar" style="text-decoration: none;">
     <strong><em>Download MyCTMLib for GTNH 2.7.x</em></strong>
   </a>
   <br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_27x.jar">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_27x.jar">
     <img src="https://img.shields.io/badge/release-MyCTMLib_v1.2.5_GTNH27x-green"
          alt="Pre-release"
          width="240">
   </a>
   <br><br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip" style="text-decoration: none;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip" style="text-decoration: none;">
     <strong><em>Download Latest Auto Build</em></strong>
   </a>
   <br>
-  <a href="https://github.com/ABKQPO/Modernity-GTNH/releases/latest">
-    <img src="https://img.shields.io/github/v/release/ABKQPO/Modernity-GTNH"
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest">
+    <img src="https://img.shields.io/github/v/release/ModernityGTNH/Modernity-GTNH"
          alt="Latest"
          width="100">
   </a>
@@ -109,9 +109,9 @@ AE2 Dark Mode [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 
 ## UI resourcepacks
 
-[Modernity-GTNH-UI](https://github.com/ABKQPO/Modernity-GTNH-UI)
+[Modernity-GTNH-UI](https://github.com/ModernityGTNH/Modernity-GTNH-UI)
 
-[Modernity-GTNH-Dark-UI](https://github.com/ABKQPO/Modernity-GTNH-Dark-UI)
+[Modernity-GTNH-Dark-UI](https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI)
 
 ## Additional Resourcepacks
 
@@ -128,12 +128,12 @@ AE2 Dark Mode [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 
 
 ### SGcraft
-  <img src="https://raw.githubusercontent.com/ABKQPO/Modernity-GTNH/main/Screenshots/SGcraft.png" />
+  <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/SGcraft.png" />
 
 
 
 ### GT5U Materials
-  <img src="https://raw.githubusercontent.com/ABKQPO/Modernity-GTNH/main/Screenshots/Materials.png" />
+  <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/Materials.png" />
 
 ## Special Thanks
 
